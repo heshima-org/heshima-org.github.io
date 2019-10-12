@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
+## Home
 
 [What We Do](what-we-do)
-
-
