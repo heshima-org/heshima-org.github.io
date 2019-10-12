@@ -1,7 +1,6 @@
 ---
 title: What We Do
-permalink: /what-we-do/
-layout: single
+layout: page
 ---
 
 # About Heshima
