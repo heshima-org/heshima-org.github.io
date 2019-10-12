@@ -5,4 +5,4 @@ layout: page
 
 # Home
 
-[What We Do](what-we-do)
+[What We Do](WhatWeDo/AboutUs)
