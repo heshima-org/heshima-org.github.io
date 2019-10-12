@@ -1,6 +1,7 @@
 ---
-title: History
+title: History of Heshima
 layout: page
+permalink: /WhatWeDo/History
 images:
   - path : "art banda 2.JPG"
   - path : gaz.jpg

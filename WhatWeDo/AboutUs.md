@@ -1,6 +1,7 @@
 ---
 title: What We Do
 layout: page
+permalink: /WhatWeDo/AboutUs
 images:
   - path : preschool1.JPG
   - path : 100_3404.JPG

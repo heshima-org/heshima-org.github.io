@@ -1,6 +1,6 @@
 ---
 title: Products
-permalink: /products/
+permalink: /Products/
 layout: page
 ---
 

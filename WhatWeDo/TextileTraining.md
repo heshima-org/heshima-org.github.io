@@ -1,6 +1,7 @@
 ---
-title: Textile Training
+title: Textile Training Centre
 layout: page
+permalink: /WhatWeDo/TextileTraining
 images:
   - path : "textile training.jpg"  
   - path : Products.jpg

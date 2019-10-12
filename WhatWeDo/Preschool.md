@@ -1,6 +1,7 @@
 ---
 title: Heshima Preschool
 layout: page
+permalink: /WhatWeDo/Preschool
 images:
   - path : "textile training.jpg"
   - path : Products.jpg
