@@ -1,3 +1,9 @@
+---
+layout: page
+title: What We Do
+permalink: /what-we-do/
+---
+
 # About Heshima
 
 Heshima means Respect in Swahili and this underlies all that we do.
