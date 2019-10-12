@@ -1,7 +1,7 @@
 ---
-layout: page
 title: What We Do
 permalink: /what-we-do/
+layout: single
 ---
 
 # About Heshima
