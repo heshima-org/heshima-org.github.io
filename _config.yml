@@ -12,15 +12,19 @@ plugins:
   - jekyll-remote-theme
 
 menu:
-  - link : /
-  - link : /WhatWeDo/AboutUs
+  - link: /
+  - link: /WhatWeDo/AboutUs
     menu:
       - link: /WhatWeDo/AboutUs
       - link: /WhatWeDo/History
       - link: /WhatWeDo/TextileTraining
       - link: /WhatWeDo/Preschool
-  - link : /Products/
-
+  - link: /Products/
+  - link: /SupportingHeshima/
+    menu:
+      - link: /SupportingHeshima/Volunteering
+      - link: https://uk.virginmoneygiving.com/fundraiser-web/donate/makeDonationForCharityDisplay.action?charityId=1002097
+        label: "Make a Donation"
 defaults:
   - scope:
       path: ""
