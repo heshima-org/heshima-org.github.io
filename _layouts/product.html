@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<tr>
+  <td colspan="3">
+		<table class="three_column">
+      <tr>
+        <td>
+          <p>&nbsp;</p>
+          {{ content }}
+        </td>
+        <td>
+          {% assign imagePaths = page.slides.images | map: "path" %}
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="400" height="325">
+            <param name="flash_component" value="ImageViewer.swc">
+            <param name="movie" value="/assets/flash/{{ page.slides.flash }}">
+            <param name="quality" value="high">
+            <param name="FlashVars" value="flashlet={imageLinkTarget:'_blank',captionFont:'Verdana',titleFont:'Verdana',showControls:false,frameShow:false,slideDelay:3,captionSize:10,captionColor:#333333,titleSize:10,transitionsType:'Fade',titleColor:#333333,slideAutoPlay:true,imageURLs:[{% for path in imagePaths %}{% if forloop.index > 1 %},{% endif %}'/assets/images/{{ path }}'{% endfor %}],slideLoop:true,frameThickness:2,imageLinks:['http://macromedia.com/','http://macromedia.com/','http://macromedia.com/'],frameColor:#333333,bgColor:#FFFFFF,imageCaptions:[]}">
+            <embed src="/assets/flash/{{ page.slides.flash }}" quality="high" flashvars="flashlet={imageLinkTarget:'_blank',captionFont:'Verdana',titleFont:'Verdana',showControls:false,frameShow:false,slideDelay:3,captionSize:10,captionColor:#333333,titleSize:10,transitionsType:'Fade',titleColor:#333333,slideAutoPlay:true,imageURLs:[{% for path in imagePaths %}{% if forloop.index > 1 %},{% endif %}'/assets/images/{{ path }}'{% endfor %}],slideLoop:true,frameThickness:2,imageLinks:['http://macromedia.com/','http://macromedia.com/','http://macromedia.com/'],frameColor:#333333,bgColor:#FFFFFF,imageCaptions:[]}" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="400" height="325"> </embed>
+          </object>
+        </td>
+        <td>
+          <p>&nbsp;</p>
+          <p>To order email orders@heshima.org.uk</p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
