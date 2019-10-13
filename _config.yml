@@ -14,7 +14,8 @@ menu:
       - link: /WhatWeDo/TextileTraining
       - link: /WhatWeDo/Preschool
   - link: /Products/
-      - link: /Products/Home-General/
+    menu:
+      - link: /Products/Home-Bedroom/
   - link: /Newsletters/
   - link: /SupportingHeshima/
     menu:
@@ -22,6 +23,7 @@ menu:
       - link: https://uk.virginmoneygiving.com/fundraiser-web/donate/makeDonationForCharityDisplay.action?charityId=1002097
         label: "Make a Donation"
   - link: /ContactUs/
+
 defaults:
   - scope:
       path: ""

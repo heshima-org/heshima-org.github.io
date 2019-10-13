@@ -1,36 +1,32 @@
 ---
 layout: default
 ---
-
 <tr>
-  <td id="text_body">&nbsp;</td>
-  	<tr>
-      <td colspan="3" id="imageCentre">
-        {% for image in page.images %}
-          {% assign mod = forloop.index | modulo: 3 %}
-          {% if mod == 1 %}
-            <table class="three_column">
-              <tbody>
-                <tr>
-          {% endif %}
-          <td align="center">
-            <a href="{{ image.link }}">
-              <img src="/assets/images/{{ image.path }}" width="240" border="0">
-              {{ image.label }}
-            </a>
-          </td>
-          {% if mod == 0 or page.images.size == forloop.index %}
-                <tr>
-              </tbody>
-            </table>
-          {% endif %}
-        {% endfor %}
+  <td colspan="3">
+    {{ content }}
+  </td>
+</tr>
+<tr>
+  <td colspan="3" id="imageCentre">
+    {% for image in page.images %}
+      {% assign mod = forloop.index | modulo: 3 %}
+      {% if mod == 1 %}
+        <table class="three_column">
+          <tbody>
+            <tr>
+      {% endif %}
+      <td align="center">
+        <a href="{{ image.link }}">
+          <img src="/assets/images/{{ image.path }}"
+            width="240" height="160" border="0">
+          {{ image.label }}
+        </a>
       </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        {{ content }}
-      </td>
-    </tr>
+      {% if mod == 0 or page.images.size == forloop.index %}
+            <tr>
+          </tbody>
+        </table>
+      {% endif %}
+    {% endfor %}
   </td>
 </tr>

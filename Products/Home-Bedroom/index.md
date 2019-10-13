@@ -1,14 +1,14 @@
 ---
-title: Products
+title: Heshima Bedrooms
 permalink: /Products/Home-Bedroom/
 layout: products
 images:
-  - path: Cushions1.jpg
+  - path: products/Cushions 1.jpg
     label: Cushions
     link: /Products/Home-Bedroom/Cushions
-  - path: bed_runners2.jpg
+  - path: products/bed runners 2.jpg
     label: "Bed Runner"
-  - path: Rainbow_bedspread.jpg
+  - path: products/Rainbow bedspread.jpg
     label: Bedspreads
 ---
 
