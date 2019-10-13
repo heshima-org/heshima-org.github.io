@@ -14,12 +14,14 @@ menu:
       - link: /WhatWeDo/TextileTraining
       - link: /WhatWeDo/Preschool
   - link: /Products/
+      - link: /Products/Home-General/
   - link: /Newsletters/
   - link: /SupportingHeshima/
     menu:
       - link: /SupportingHeshima/Volunteering
       - link: https://uk.virginmoneygiving.com/fundraiser-web/donate/makeDonationForCharityDisplay.action?charityId=1002097
         label: "Make a Donation"
+  - link: /ContactUs/
 defaults:
   - scope:
       path: ""
