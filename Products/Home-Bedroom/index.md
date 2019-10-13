@@ -12,4 +12,4 @@ images:
     label: Bedspreads
 ---
 
-# Heshima Products
+# Heshima Bedrooms
