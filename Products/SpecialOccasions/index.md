@@ -1,5 +1,5 @@
 ---
-title: Christmas Decorations
+title: Special Occasions
 permalink: /Products/SpecialOccasions/
 layout: products
 ---

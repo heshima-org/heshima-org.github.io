@@ -1,7 +1,7 @@
 ---
-title: Heshima Bags
-permalink: /Products/Bags/
+title: Clothing and Accessories
+permalink: /Products/ClothingAccessories/
 layout: products
 ---
 
-# Heshima Bags
+# Heshima Clothing

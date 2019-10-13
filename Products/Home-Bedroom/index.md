@@ -1,5 +1,5 @@
 ---
-title: Heshima Bedrooms
+title: Home - Bedrooms
 permalink: /Products/Home-Bedroom/
 layout: products
 images:

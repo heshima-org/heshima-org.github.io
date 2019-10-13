@@ -15,7 +15,12 @@ menu:
       - link: /WhatWeDo/Preschool
   - link: /Products/
     menu:
+      - link: /Products/Home-General/
+      - link: /Products/Home-Dining/
       - link: /Products/Home-Bedroom/
+      - link: /Products/Bags/
+      - link: /Products/ClothingAccessories/
+      - link: /Products/SpecialOccasions/
   - link: /Newsletters/
   - link: /SupportingHeshima/
     menu:
@@ -29,3 +34,6 @@ defaults:
       path: ""
     values:
       layout: "single"
+
+sass:
+  style: compact

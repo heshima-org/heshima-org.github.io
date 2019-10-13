@@ -1,5 +1,5 @@
 ---
-title: Heshima Dining
+title: Home - Dining
 permalink: /Products/Home-Dining/
 layout: products
 ---

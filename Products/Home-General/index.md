@@ -1,5 +1,5 @@
 ---
-title: Home General
+title: Home - General
 permalink: /Products/Home-General/
 layout: products
 ---
