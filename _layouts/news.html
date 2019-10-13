@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<tr>
+  <td id="text_body">
+    <bodyText>
+      <listtext>
+        {{ content }}
+        <h2>Latest</h2>
+        <ul>
+          {% for item in page.news %}
+            <li><a href="{{ item.path }}">{{ item.date | date: "%b %Y" }}</a></li>
+          {% endfor %}
+        </ul>
+      </listtext>
+    </bodyText>
+  </td>
+  {% include image-column.html %}
+</tr>
