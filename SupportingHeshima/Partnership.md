@@ -6,4 +6,4 @@ permalink: /SupportingHeshima/Partnership
 
 # Partnership Project Form
 
-Coming soon
+Coming soon.
