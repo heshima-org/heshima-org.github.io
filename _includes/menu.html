@@ -1,0 +1,20 @@
+<div id="menu">
+  <ul class="menu">
+    {% for item in site.menu %}
+      <li>
+        {% assign page = site.pages | where: "url", item.link | first: %}
+        <a href="{{ item.link }}"><span>{{ item.label | default: page.title | default: item.link }}</span></a>
+        {% if item.menu %}
+          <div>
+            <ul>
+              {% for child in item.menu %}
+                {% assign page = site.pages | where: "url", child.link | first: %}
+                <li><a href="{{ child.link }}"><span>{{ child.label | default: page.title | default: child.link }}</span></a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body id="main_body">
+    <table border="0" cellpadding="0" cellspacing="0">
+    	<tbody>
+        <tr>
+    		     <td height="181" background="/assets/skin/top.jpg"></td>
+    	  </tr>
+        <tr>
+    	      <td>
+              {% include menu.html %}
+            </td>
+        </tr>
+        <tr>
+          <td>
+            <table border="0" cellpadding="0" cellspacing="0" >
+              {{ content }}
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {% include footer.html %}
+  </body>
+</html>

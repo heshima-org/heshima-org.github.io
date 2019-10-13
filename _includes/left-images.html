@@ -1,0 +1,9 @@
+<td id="left_nav">
+  {% for image in page.images %}
+    <p>
+      {% if image.link %}<a href="{{ image.link }}">{% endif %}
+      <img src="/assets/images/{{ image.path }}" width="230" border="0">
+      {% if image.link %}</a>{% endif %}
+    </p>
+  {% endfor %}
+</td>

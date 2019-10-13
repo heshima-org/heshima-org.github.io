@@ -1,0 +1,12 @@
+<table class="three_column">
+  <tr>
+    {% for image in page.images %}
+      <td id="imageCentre">
+        <a href="{{ image.link }}">
+          <img src="/assets/images/{{ image.path }}" border="0">
+          {{ image.label }}
+        </a>
+      </td>
+    {% endfor %}
+  </tr>
+</table>
