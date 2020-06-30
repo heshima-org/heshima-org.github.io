@@ -10,6 +10,8 @@ images:
 news:
   - path: "/assets/docs/news/2016/Newsletter May 2019.pdf"
     date: 2019-05-01
+  - path: "/assets/docs/news/2016/Heshima Newsletter dec 2019.pdf"
+    date: 2019-12-01
 ---
 
 # Newsletters
