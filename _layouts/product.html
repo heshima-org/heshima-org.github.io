@@ -10,6 +10,26 @@ layout: default
           <p>&nbsp;</p>
           {{ content }}
         </td>
+          <td colspan="3" id="imageCentre">
+    {% for image in page.images %}
+      {% assign mod = forloop.index | modulo: 3 %}
+      {% if mod == 1 %}
+        <table class="three_column">
+          <tbody>
+            <tr>
+      {% endif %}
+      <td align="center">
+          <img src="/assets/images/{{ image.path }}"
+            width="240" height="160" border="0">
+          {{ image.label }}
+      </td>
+      {% if mod == 0 or page.images.size == forloop.index %}
+            <tr>
+          </tbody>
+        </table>
+      {% endif %}
+    {% endfor %}
+  </td>
         <td>
           <p>&nbsp;</p>
           <p>To order email orders@heshima.org.uk</p>
