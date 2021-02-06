@@ -10,7 +10,16 @@ layout: default
           <p>&nbsp;</p>
           {{ content }}
         </td>
-          <td colspan="3" id="imageCentre">
+        <td>
+          <p>&nbsp;</p>
+          <p>To order email orders@heshima.org.uk</p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td colspan="3" id="imageCentre">
     {% for image in page.images %}
       {% assign mod = forloop.index | modulo: 3 %}
       {% if mod == 1 %}
@@ -30,11 +39,5 @@ layout: default
       {% endif %}
     {% endfor %}
   </td>
-        <td>
-          <p>&nbsp;</p>
-          <p>To order email orders@heshima.org.uk</p>
-        </td>
-      </tr>
-    </table>
-  </td>
 </tr>
+
