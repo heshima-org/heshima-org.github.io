@@ -2,11 +2,11 @@
 title: Cushions
 layout: product
 permalink: /Products/Home-Bedroom/Cushions
-slides:
-  flash: "Cushions slideshow.swf"
-  images:
-    - path: products/Cushions 1.jpg
-    - path: products/Cushions 2.jpg
+images:
+  - path: products/Cushions 1.jpg
+    label: Cushions
+  - path: products/Cushions 2.jpg
+    label: Cushions
 ---
 
 Cushion cover can be made to order.
