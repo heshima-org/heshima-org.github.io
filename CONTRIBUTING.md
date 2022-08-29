@@ -47,3 +47,21 @@ the file from the [code
 view](https://github.com/heshima-org/heshima-org.github.io).
 
 ![image](assets/admin/code-view.png)
+
+## Uploading files
+
+If you need to add new files, for example images or documents (PDFs) you can
+find the folder in the [code
+view](https://github.com/heshima-org/heshima-org.github.io) and select **Upload
+files** under the **Add file** drop down.
+
+![image](assets/admin/upload-files.png)
+
+## Local editing
+
+If you are familiar with git, you can clone the repository and use your
+favourite git tooling to manage the site. This may be preferable if you have a
+lot of changes you wish to make. You can also spin up the site locally. See the
+[developer guide](./DEV.md) for more information. If are not familiar with git
+or don't wish to use it, you can make most changes with the web interface
+described above.
