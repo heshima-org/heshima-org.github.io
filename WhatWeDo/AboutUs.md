@@ -50,14 +50,16 @@ The children are provided with a nutritious meal during the morning.
 
 ## Saturday School
 
-Class sizes in local schools are big. Many teachers try to teach classes of 70
-or more. Children have to share desks and chairs and there are few resources. We
-can offer children more individual help on a Saturday. We can listen to their
-reading; help them with their Maths and spend some time developing a sport such
-as basketball or swimming. This supplements what they get in school and they are
-able to ask for help with topics they do not understand. Saturday school is
-making a difference and has helped many students to improve their confidence and
-therefore their achievement in school.
+Class sizes in local schools are big. Many teachers try to teach classes of 70 or
+more. Children have to share desks and chairs and there are few resources. In
+association with Braeburn International School nearby, we can offer local primary
+and secondary children individual help on a Saturday. We can listen to their reading;
+help them with their Maths and spend some time developing a sport such as
+basketball or swimming, and they can enjoy some art and craft activities. Saturday
+school is making a difference and has helped many students to improve their
+confidence and therefore their achievement in school. In the near future, it is hoped
+to employ a teacher on the Heshima site who can operate an after-school homework
+club.
 
 ## School Partnerships
 
