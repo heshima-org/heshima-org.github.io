@@ -61,14 +61,6 @@ confidence and therefore their achievement in school. In the near future, it is 
 to employ a teacher on the Heshima site who can operate an after-school homework
 club.
 
-## School Partnerships
-
-Heshima continues to promote school partnerships. We know that links between
-schools from different countries benefits everyone involved. We set up and
-facilitate shared projects between schools and help to arrange school visits.
-Part of these often involve summer school activites such as Drama, Music and
-Art, subjects not normally taught in schools.
-
 ## Textile Training
 
 To make a lasting difference to the families that live around Heshima, we have
