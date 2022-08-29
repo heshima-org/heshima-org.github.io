@@ -14,6 +14,8 @@ news:
     date: 2019-12-01
   - path: "/assets/docs/news/heshima-2020.pdf"
     date: 2020-12-01
+  - path: "/assets/docs/news/heshima-newsletter-dec-2021.pdf"
+    date: 2021-12-01
 ---
 
 # Newsletters
