@@ -8,7 +8,4 @@ images:
   - path : News.jpg
     link : "/assets/docs/news/2016/Newsletter May 2019.pdf"
     label : "Latest Newsletter"
-  - path : "/Bandana leaflet.jpg"
-    link : "/docs/Bandana leaflet.pdf"
-    label : "Fundraise for Heshima"
 ---
