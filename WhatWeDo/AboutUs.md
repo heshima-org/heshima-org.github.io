@@ -21,6 +21,21 @@ jobs. At Heshima, we hope to support these people by offering their children a g
 start in school and life and by offering their mothers training and skills to enable them
 to make an income and become more independent.
 
+Heshima is based on a one-acre site and now features a house for the
+caretaker/groundsman, a classroom for the pre-school, a large 2 story building
+housing the textile project and shop and a computer laboratory, and toilets. On the
+remaining land, some fruit trees have been planted, but still leaving a large grassy
+space for the pre-school children to play on.
+
+The project employs a caretaker/groundsman; a teacher in charge of the pre-school
+and who also has oversight of the textile project; and a textile trainer.
+
+The site generates electricity through solar panels, and is now also connected to the
+mains. Under the main building is a large tank for the storage of rainwater.
+
+Heshima is a registered charity in both the UK and Tanzania, and is listed on
+Companies House in the UK.
+
 ## Pre-School
 
 We now have a preschool class in its own classroom. There are about 15 children
