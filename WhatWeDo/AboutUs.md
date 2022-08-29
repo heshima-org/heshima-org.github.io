@@ -63,20 +63,96 @@ club.
 
 ## Textile Training
 
-To make a lasting difference to the families that live around Heshima, we have
-started up a textile training centre. A range of unemployed women come in the
-morning to learn a skill. We now have a trainer, who has already completed
-training through Heshima. The training also involves some English classes, which
-will help them run their own successful businesses once they have finished the
-traiining. In the afternoons, some of the women who have now finished their
-training with us are employed to make different textile products, which are sold
-to help keep Heshima sustainable.
+To make a lasting difference to the families that live around Heshima, a well-
+equipped textile training centre has been operating for around 10 years. This is now
+located in 2 rooms in our main building. A number of unemployed women come in
+the afternoons to learn textile skills, including basics such as measuring and cutting
+accurately. The trainer is a local lady who herself was trained by the project. The aim
+is to enable the women to set up their own textile business in their own community
+so that they have some financial independence. English classes are also provided,
+using the lap-tops, which help them run their own successful businesses once they
+have finished the training. In the mornings, some of the women who have finished
+their training and have stayed on at Heshima make different textile products, which
+are sold to provide them with an income and funding for Heshima. There is a small
+shop on-site where tourists are able to see and purchase items. Items are also sold
+in local tourist hotels and at an annual charity fair.
+
+Some of the younger women have also formed themselves into a netball team, and
+have participated in several matches with other women’s teams, thus breaking
+gender stereotypes!
 
 ## Future Development
 
-It’s nice to dream! So this is what we picture in the future:
+It is hoped to begin the construction in late 2022 of a purpose-built
+classroom/workshop to enable young men to develop a variety of vocational skills,
+and therefore gain employment.. Funding is at present being sought for this project.
 
-- To complete the purpose built training centre that we have started building.
-- Develop our children’s playground.
-- Start a library for the children in the area.
-- Start vocational training for the unemployed men in the area.
+## Volunteering with Heshima
+
+We always need help at Heshima and thankfully people both old and young, from
+around the world, volunteer to help out. Some volunteer for a couple of weeks, whilst
+others commit to a longer period of time … but all are useful! We try to find out
+where your strengths and interests lie and then we match you up with something you
+feel comfortable with. These are some of the jobs that our volunteers have taken on:
+
+- Organised activities for the mother and toddler group.
+- Taught English to Maasai women.
+- Supported students with reading at the Saturday School.
+- Developed the Garden.
+- Built an obstacle course for Children.
+- Helped with the building and maintenance work including painting, carpentry,
+  plumbing and electrics.
+- Run art, music or drama workshops for local children.
+- Coached football
+- Assisted with training at the textile training centre, providing design ideas.
+- Organised or participated in a sponsored event eg. climbing Kilimanjaro.
+  Let us know what you are interested in and I am sure that we will be able to
+  make the most of your skills and gifts.
+
+## Cost of Volunteering
+
+You will need to buy your return flight: the nearest airport is Kilimanjaro, about 90
+minutes away. A taxi can be booked for you (approximately £30/$35 each way)
+We can arrange accommodation for you on the Braeburn International School site,
+which is around 5 km away from the Heshima site. Accommodation here is around
+£10 a night for a room. Two people can stay together in one room. The room is basic
+but clean and includes a mosquito net, and an ensuite shower room. In the courtyard
+behind your room there is a shared kitchen and dining area, where you can cook
+your meals.
+
+There is an outdoor swimming pool, bar, basketball court and squash courts on the
+school site, which all our volunteers can use.
+
+You will be expected to be self-sufficient, and have the confidence to make your own
+daily travel arrangements to/from the Heshima site by either dala-dala (local minibus)
+or bicycle. Tanzania is generally very safe for visitors during daylight hours, but you
+may feel more comfortable volunteering as a pair. Local people are generally very
+friendly, and are delighted when visitors engage with them, for instance, at the local
+market stalls. Language can be a problem: many people only have a smattering of
+English, Swahili being the “official” language, so a willingness to learn a few phrases
+in Swahili is always appreciated! Volunteers who are prepared to engage with the
+locals will benefit much more from their visit.
+
+Please remember that there is no National Health service in Tanzania and so all
+volunteers need to come with medical insurance. The Tanzanian Government also
+requires you to come with a yellow fever certificate and evidence of Covid
+vaccination.
+
+A tourist visa can be obtained on arrival at the airport ($50), but to avoid queuing, it
+may be better to apply for the Visa online.
+
+## Things to do and see
+
+All volunteers need “time out” and there are many things to do and see in and
+around Arusha: Arusha National Park is nearby as well as, further afield, Tarangire,
+Manyara, Serengeti and Ngorogoro Parks. In addition there is Mt Meru (5000m),
+towering above Arusha, and Kilimanjaro. But be warned: charges for visitors to all of
+these are high! For a cheaper day out, the Monduli Hills (about 50p on the dala-dala)
+are worth exploring, and there is also an organised walking group which meets on
+Sundays. Other local attractions include the weekly Maasai Market in Kisongo, and
+the maasai Craft Market in Arusha. For the more adventurous, there is Dar-es
+Salaam, recently reconnected to Arusha by overnight train, and Zanzibar, both also
+accessed by flights from the local Arusha airport.
+
+If you are interested in coming out to help please get in touch with
+alan@heshima.org.uk
