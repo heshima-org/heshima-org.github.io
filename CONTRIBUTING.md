@@ -15,16 +15,16 @@ repository".
 
 ![image](assets/admin/search-content.png)
 
-This should find the page where you can change the content. 
+This should find the page where you can change the content.
 
 ![image](assets/admin/found-content.png)
 
 Click
-through to the page and make sure you've selected the **main** branch.
+through to the page.
 
 ![image](assets/admin/not-main.png)
 
-Change the branch to main if you are not on main
+and make sure you've selected the **main** branch. Change the branch to main if you are not on main
 
 ![image](assets/admin/on-main.png)
 
