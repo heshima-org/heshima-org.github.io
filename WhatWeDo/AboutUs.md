@@ -38,14 +38,15 @@ Companies House in the UK.
 
 ## Pre-School
 
-We now have a preschool class in its own classroom. There are about 15 children
-from 3 to 6, some of whose mothers are involved in the textile training project.
-The children are able to engage in creative play. They sing songs, play games,
-listen to a story and have a go at Art and Crafts All the activities are done in
-English. This is important as if they don’t have a basic understanding of
-English, theysoon get left behind at school and have no chance of being accepted
-into a secondary school. We are building up the outside play equipment and
-currently have a sandpit and small climbing frame.
+We have a preschool class in its own classroom. There are about 10 children aged
+from 3 to 6, some of whose mothers are involved in the textile training project. The
+children are able to engage in creative play. They sing songs, play games, listen to a
+story and enjoy Art and Crafts. All the activities are carried out in English: this is
+important as if they don’t have a basic understanding of English, they soon get left
+behind at school and have no chance of being accepted into a secondary school.
+There is a large play area equipped with swings, climbing frame, children’s bikes and
+many other toys. The children also have access to interactive resources on lap-tops.
+The children are provided with a nutritious meal during the morning.
 
 ## Saturday School
 
