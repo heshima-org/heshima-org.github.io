@@ -1,4 +1,4 @@
-# Operations
+# Administration
 
 ## Setting up domain
 

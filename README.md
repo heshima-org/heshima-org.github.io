@@ -2,5 +2,5 @@
 
 Heshima Web Site.
 
-See [Contribution guide](./CONTRIBUTING.md) and [admin guide](./ADMIN.md) for
+See [contribution guide](./CONTRIBUTING.md) and [administration guide](./ADMIN.md) for
 details on how to manage this site.
