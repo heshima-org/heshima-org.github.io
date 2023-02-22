@@ -1,5 +1,5 @@
 ---
-title: History of Heshima
+title: About Us
 layout: page
 permalink: /WhatWeDo/History
 images:
