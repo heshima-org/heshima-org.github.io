@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Our History
 layout: page
 permalink: /WhatWeDo/History
 images:
