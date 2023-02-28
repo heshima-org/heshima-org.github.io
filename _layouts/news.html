@@ -7,10 +7,9 @@ layout: default
     <bodyText>
       <listtext>
         {{ content }}
-        <h2>Latest</h2>
         <ul>
           {% for item in page.news %}
-            <li><a href="{{ item.path }}">{{ item.date | date: "%b %Y" }}</a></li>
+            <li><a href="{{ item.path }}">{{ item.date | date: "%Y - %B" }}</a></li>
           {% endfor %}
         </ul>
       </listtext>

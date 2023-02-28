@@ -3,9 +3,11 @@ title: Newsletters
 layout: news
 permalink: /Newsletters/
 images:
-  - path: IMG_8720.jpg
+  - path: 2023/charity-fair.jpg
     width: 472
-  - path: IMG_8728.jpg
+  - path: 2023/football.jpg
+    width: 472
+  - path: 2023/children-outside-school.jpg
     width: 472
 news:
   - path: "/assets/docs/news/2016/Newsletter May 2019.pdf"
@@ -16,6 +18,8 @@ news:
     date: 2020-12-01
   - path: "/assets/docs/news/heshima-newsletter-dec-2021.pdf"
     date: 2021-12-01
+  - path: "/assets/docs/news/heshima-newsletter-oct-2022.pdf"
+    date: 2022-10-01
 ---
 
 # Newsletters
