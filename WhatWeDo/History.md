@@ -9,7 +9,6 @@ images:
   - path : DSCF0209.JPG
   - path : IMG_3217.JPG
   - path : DSCF0604.JPG
-  - path : ze_accom_banda_after.JPG
   - path : "Heshima 2009 002.jpg"
 ---
 

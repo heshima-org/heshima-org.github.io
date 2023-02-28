@@ -16,11 +16,9 @@ layout: default
             <tr>
       {% endif %}
       <td align="center">
-        <a href="{{ image.link }}">
-          <img src="/assets/images/{{ image.path }}"
-            width="240" height="160" border="0">
-          {{ image.label }}
-        </a>
+        <img src="/assets/images/{{ image.path }}"
+          width="240" height="160" border="0">
+        {{ image.label }}
       </td>
       {% if mod == 0 or page.images.size == forloop.index %}
             <tr>
