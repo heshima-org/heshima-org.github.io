@@ -57,6 +57,19 @@ files** under the **Add file** drop down.
 
 ![image](assets/admin/upload-files.png)
 
+Please convert word docs to PDF format before uploading so that they are more
+accessible.
+
+Newsletters should be uploaded to the folder `assets/docs/news` and named like
+`heshima-newsletter-YYYY.pdf` where and `YYYY` is the year. To link the newsletter
+into the site, add the reference to this document to `Newsletters/index.md`, for
+example:
+
+```
+- path: "/assets/docs/news/heshima-newsletter-2024.pdf"
+  date: 2024-12-01
+```
+
 ## Local editing
 
 If you are familiar with git, you can clone the repository and use your

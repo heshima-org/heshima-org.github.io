@@ -22,6 +22,8 @@ news:
     date: 2022-10-01
   - path: "/assets/docs/news/heshima-newsletter-2023.pdf"
     date: 2023-12-01
+  - path: "/assets/docs/news/heshima-newsletter-2024.pdf"
+    date: 2024-12-01
 ---
 
 # Newsletters
