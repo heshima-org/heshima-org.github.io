@@ -87,6 +87,8 @@ It is hoped to begin the construction in late 2022 of a purpose-built
 classroom/workshop to enable young men to develop a variety of vocational skills,
 and therefore gain employment.. Funding is at present being sought for this project.
 
+## Carpentry Project
+
 ## Volunteering with Heshima
 
 We always need help at Heshima and thankfully people both old and young, from
