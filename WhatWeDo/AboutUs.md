@@ -81,13 +81,17 @@ Some of the younger women have also formed themselves into a netball team, and
 have participated in several matches with other women’s teams, thus breaking
 gender stereotypes!
 
-## Future Development
-
-It is hoped to begin the construction in late 2022 of a purpose-built
-classroom/workshop to enable young men to develop a variety of vocational skills,
-and therefore gain employment.. Funding is at present being sought for this project.
-
 ## Carpentry Project
+
+In 2022, we started building a workshop to be able to teach woodworking skills to young 
+men in the community to run alongside the textiles project. The building has been completed 
+and we are currently fitting doors and windows, before setting it up as a workshop inside. 
+We applied for a carpentry kit from Tools with a Mission (TWAM) and were accepted in early 2025. 
+We expect these tools, which have been donated and reburbished in the UK, to arrive sometime in 2025.
+We plan to run a 6-month beginners course to develop skills in using different handtools. 
+It is hoped that we will then develop a range of products that can be sold at Heshima and online. 
+The workshop consists of 2 rooms so in future, there is the possibility of our tranees returning 
+to Heshima to make products to-order at the same time as another group are being trained.
 
 ## Volunteering with Heshima
 
