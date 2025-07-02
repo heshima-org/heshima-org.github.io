@@ -8,6 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 menu:
   - link: /
   - link: /WhatWeDo/History
+  - link: /WhatWeDo/AboutUs
   - link: /Products/
   - link: /Newsletters/
   - link: /ContactUs/
