@@ -19,7 +19,7 @@ images:
 
 # Heshima Products
 [![Bags](/assets/images/products/beachbag2.jpg)](Bags)
-###Bags
+<h2>Heading level 2</h2> Bags
 [![Home](/assets/images/dec 019.jpg)](Home)
 [![Clothing](/assets/images/products/clothes rail.jpg)](Clothing)
 [![Children](/assets/images/products/cube.jpg)](Children)
