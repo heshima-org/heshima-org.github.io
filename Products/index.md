@@ -18,4 +18,4 @@ images:
 ---
 
 # Heshima Products
-[![Bags](/assets/images/products/bag1.jpg)](Bags)
+[![Bags](/assets/images/bag1.jpg)]
