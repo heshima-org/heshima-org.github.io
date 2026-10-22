@@ -20,8 +20,18 @@ images:
 # Heshima Products
 [![Bags](/assets/images/products/beachbag2.jpg)](Bags)
 <h2>Bags</h2>
+
 [![Home](/assets/images/dec 019.jpg)](Home)
+<h2>Home</h2>
+
 [![Clothing](/assets/images/products/clothes rail.jpg)](Clothing)
+<h2>Clothing</h2>
+
 [![Children](/assets/images/products/cube.jpg)](Children)
+<h2>Children</h2>
+
 [![Christmas](/assets/images/products/stocking.jpg)](Christmas)
+<h2>Christmas</h2>
+
 [![Other](/assets/images/products/laptop.jpg)](Other)
+<h2>Other</h2>
