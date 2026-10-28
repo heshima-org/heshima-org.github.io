@@ -9,6 +9,9 @@ images:
 
 # Contact Us
 
+email: heshimalearningcentre@gmail.com
+whatsapp: +255 726 638746
+
 ## UK Office
 
 Alan Cram<br/>
