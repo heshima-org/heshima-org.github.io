@@ -36,4 +36,3 @@ images:
 
 <h2>Other</h2>
 [![Other](/assets/images/products/laptop.jpg)](Other)
-

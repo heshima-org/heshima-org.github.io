@@ -1,7 +1,10 @@
 ---
-title: Home - Dining
-permalink: /Products/Home-Dining/
+title: Children
+permalink: /Products/Children/
 layout: products
+images: 
+	- path: IMG_0416.jpg
+	  label: Christmas
 ---
 
-# Heshima Dining
+# Heshima Children
