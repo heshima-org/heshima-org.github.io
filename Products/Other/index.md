@@ -1,10 +1,10 @@
 ---
-title: Home
-permalink: /Products/Home/
+title: Other
+permalink: /Products/Other/
 layout: products
 ---
 
-# Home General
+# Other
 
 [![bunting](/assets/images/bunting 004.jpg)]
 [![Door stop](/assets/images/Door Stop.jpg)]
