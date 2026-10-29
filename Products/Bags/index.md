@@ -1,8 +1,8 @@
 ---
 title: Bags
 permalink: /Products/Bags/
-layout: products
+layout: page
 images:
-	-path: assets/images/products/beachbag2.jpg
+	- path: "beachbag2.jpg"
 ---
 # Heshima Bags
