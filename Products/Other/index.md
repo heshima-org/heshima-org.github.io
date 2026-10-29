@@ -1,7 +1,16 @@
 ---
-title: Home - General
-permalink: /Products/Home-General/
+title: Home
+permalink: /Products/Home/
 layout: products
 ---
 
 # Home General
+
+[![bunting](/assets/images/bunting 004.jpg)]
+[![Door stop](/assets/images/Door Stop.jpg)]
+[![Door stop](/assets/images/IMG_8751.jpg)]
+[![apron](/assets/images/textiles 009.jpg)]
+[![apron](/assets/images/textiles 010.jpg)]
+
+---
+
