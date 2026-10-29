@@ -6,6 +6,6 @@ layout: Products
 ---
 # Heshima Bags
 
-[![Beach bag](/assets/images/products/bag1.jpg)]
+[![Beach bag](/assets/images/bag1.jpg)]
 
 ---
