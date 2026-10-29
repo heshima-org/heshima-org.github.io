@@ -13,7 +13,7 @@ layout: products
 [![washbag](/assets/images/Wash bag.jpg)]
 [![handbag](/assets/images/green bag.jpg)]
 [![handbag](/assets/images/handbag 3.jpg)]
-[![handbag](/assets/images/handbag 5.jpg)]
+[![handbag](/assets/images/handbag 4.jpg)]
 [![washbag](/assets/images/handbag2.jpg)]
 [![washbag](/assets/images/laptop bag.jpg)]
 [![handbag](/assets/images/laptop bags.jpg)]
