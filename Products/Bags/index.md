@@ -1,11 +1,12 @@
 ---
 title: Bags
 permalink: /Products/Bags/
-layout: Products
+layout: products
 
 ---
+
 # Heshima Bags
 
-[![Beach bag](/assets/images/bag1.jpg)]
+[![handbag](/assets/images/bag1.jpg)]
 
 ---
