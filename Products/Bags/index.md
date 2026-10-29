@@ -7,6 +7,6 @@ layout: products
 
 # Heshima Bags
 
-[![handbag](/assets/images/bag1.jpg)]
+[![handbag](/assets/images/bag purple.jpg)]
 
 ---
