@@ -5,4 +5,4 @@ layout: Products
 ---
 # Heshima Bags
 
-![Beach bag][(assets/images/products/beachbag2.jpg)]
+![Beach bag](assets/images/products/bags 1.jpg)
