@@ -11,6 +11,8 @@ layout: products
 [![Door stop](/assets/images/IMG_8751.jpg)]
 [![apron](/assets/images/textiles 009.jpg)]
 [![apron](/assets/images/textiles 010.jpg)]
+[![apron](/assets/images/apron.jpg)]
+[![chair covering](/assets/images/chair covers.jpg)]
 
 ---
 
