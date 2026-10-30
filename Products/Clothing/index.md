@@ -1,6 +1,6 @@
 ---
-title: Clothing and Accessories
-permalink: /Products/ClothingAccessories/
+title: Clothing
+permalink: /Products/Clothing/
 layout: products
 ---
 
