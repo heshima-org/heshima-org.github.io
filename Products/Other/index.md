@@ -16,6 +16,5 @@ layout: products
 [![bedding](/assets/images/boarding.jpg)]
 [![card](/assets/images/africa card.jpg)]
 
-
 ---
 
