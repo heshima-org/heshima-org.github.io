@@ -14,7 +14,7 @@ layout: products
 [![apron](/assets/images/apron.jpg)]
 [![chair covering](/assets/images/chair covers.jpg]
 [![bedding](/assets/images/boarding.jpeg)]
-[![card](/assets/images/africa card.jpg)]
+[![card](/assets/images/africa card.jpeg)]
 
 ---
 

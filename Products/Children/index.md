@@ -8,7 +8,7 @@ layout: products
 # Children's Products
 
 [![toys](/assets/images/taggies.jpg)]
-[![toys](/assets/images/cubes.jpg)]
+[![toys](/assets/images/cubes.jpeg)]
 
 
 ---
