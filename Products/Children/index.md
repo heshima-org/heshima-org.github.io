@@ -7,8 +7,8 @@ layout: products
 
 # Children's Products
 
-[![handbag](/assets/images/bag purple.jpg)]
-
+[![toys](/assets/images/taggies.jpg)]
+[![toys](/assets/images/cubes.jpg)]
 
 
 ---
